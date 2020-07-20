@@ -22,7 +22,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 📷 [instagram][instagram]  
 
 
-[banner]: https://user-images.githubusercontent.com/31739123/87897508-39e66a00-ca69-11ea-8d0f-c3d6458d6f01.png
+[banner]: https://user-images.githubusercontent.com/31739123/87900376-d3197e80-ca71-11ea-9032-e861a5417d40.png
 [website]: http://dishijn.netlify.app/
 [linkedin]: https://linkedin.com/in/dishi-jain
 [twitter]: https://twitter.com/dishijain2
