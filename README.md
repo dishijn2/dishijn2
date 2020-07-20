@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C++, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology. 
 
+📫 How to reach me: 
+
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
