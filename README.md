@@ -21,7 +21,6 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dishijain2) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dishijn2)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dishi-jain/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jndishi/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/dishi.jain.906) 
 
 [![Dishi's github stats](https://github-readme-stats.vercel.app/api?username=dishijn2)](https://github.com/dishijn2/github-readme-stats)
-![Top Langs ](https://github-readme-stats.dishijn2.vercel.app/api/top-langs/?username=dishijn2&layout=compact&theme=tokyonight)
 
 
 [banner]: https://raw.githubusercontent.com/dishijn2/dishijn2/master/Dishi%20jain%20(1).png
