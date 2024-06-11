@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![bg][banner]][website]
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C++, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology. 
+Strong in design and integration with intuitive problem-solving skills. Proficient in Python, SQL, Data warehouse & ETL processes. Result-oriented and dynamic professional with 3+ years of experience in automating processes and performing in-depth data analysis. Proven track record in enhancing data quality and operational efficiency.
 
 📫 How to reach me: 
 
