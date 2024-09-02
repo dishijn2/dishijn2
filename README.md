@@ -22,5 +22,4 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 [![Dishi's github stats](https://github-readme-stats.vercel.app/api?username=dishijn2)](https://github.com/dishijn2/github-readme-stats)
 
 
-[banner]: 
 [website]: https://dishijn.netlify.app
