@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in Python, SQL, Data warehouse & ETL processes. Result-oriented and dynamic professional with 3+ years of experience in automating processes and performing in-depth data analysis. Proven track record in enhancing data quality and operational efficiency.
+Strong in design and integration with intuitive problem-solving skills. Proficient in Python, SQL, Data warehouse & ETL processes. Result-oriented and dynamic professional with 5+ years of experience in automating processes and performing in-depth data analysis. Proven track record in enhancing data quality and operational efficiency.
 
 📫 How to reach me: 
 
